@@ -1,6 +1,7 @@
 ### Hi there👋, this is faaris. 
 
 - 🌱 I’m currently learning BIT @ University of Colombo School of Computing
+
 **2021 Goals**
 - 👩🏻‍💻  Get a job as a Frontend web developer.
 
