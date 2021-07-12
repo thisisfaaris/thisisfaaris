@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Faaris. 
 
-- 🌱 I’m currently learning BIT @ University of Colombo School of Computing
+- 🌱 I’m currently learning Bachelor of Information Technology @ [UCSC](http://www.bit.lk/)
 
 **2021 Goal**
 - 👨🏽‍💻 Get a job as a Frontend web developer.
