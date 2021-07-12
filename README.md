@@ -1,4 +1,4 @@
-### Hi there👋, this is faaris. 
+### Hi there👋, I'm Faaris. 
 
 - 🌱 I’m currently learning BIT @ University of Colombo School of Computing
 
