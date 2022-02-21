@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Faaris.
 
-- 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
+- 💻 Right now, I'm working as a freelance professional using React and React Native.
 - 🌱 I’m currently learning Bachelor of Information Technology @ [UCSC](http://www.bit.lk/)
 - 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/muhammad-faaris-972438182/) • [Twitter](https://twitter.com/thisisfaaris)
 
